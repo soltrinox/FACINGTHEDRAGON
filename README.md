@@ -115,3 +115,217 @@ The dragon is waiting. It's time to face it.
 *2025*
 
 [Table of Contents](000.md)
+
+# TABLE OF CONTENTS
+
+## PART ONE: FOUNDATION
+
+[**WARRIORS FACING DRAGONS**](001.md)
+
+[**CRISIS RESOURCES AND SAFETY PROTOCOLS**](002.md)
+
+[**CHAPTER SEQUENCING GUIDE**](003.md)
+
+---
+
+## PART TWO: THE STORIES (THE DRAGON PARABLES)
+
+[**The Reluctant Student**](004.md)
+
+[**The Grandfather Speaks of Worth**](005.md)
+
+[**The Unheard Boy**](006.md)
+
+[**Respect: The Gateway to the Dragon**](007.md)
+
+[**How Respect Became a Path to Violence**](008.md)
+
+[**The Real Nature of the Dragon**](009.md)
+
+[**The Dragon of Wounded Pride**](010.md)
+
+[**What It Means to Face the Dragon**](011.md)
+
+[**The Fire Inside**](012.md)
+
+[**Why a Young Man Stops Caring About Others**](014.md)
+
+[**The Unseen Wound**](015.md)
+
+[**The Wounded Bear**](016.md)
+
+[**The Chained Giant**](017.md)
+
+[**The Shattered Helmet**](018.md)
+
+[**The Warrior Who Could Not Cry**](019.md)
+
+[**The Lion Who Feared His Roar**](020.md)
+
+[**The Two Wolves by the River**](021.md)
+
+[**The Three Rivers**](022.md)
+
+[**The Empty Quiver**](023.md)
+
+[**The Unfinished Mask**](024.md)
+
+[**The Seven Doors**](025.md)
+
+[**The Test of the Six Mirrors**](026.md)
+
+[**The Warrior Who Walked Backward**](027.md)
+
+[**The Warrior Who Chased Every Shadow**](028.md)
+
+[**The Anvil and the Sword**](029.md)
+
+[**The Blacksmith's Tongs**](030.md)
+
+[**The Silent Stone**](031.md)
+
+[**The Thornling Tree**](032.md)
+
+[**The Haunted Blade**](033.md)
+
+[**The Masterless Horse**](034.md)
+
+[**The Broken Drum**](035.md)
+
+[**The Lamp with No Oil**](036.md)
+
+[**The Echoing Cave**](037.md)
+
+[**The Threads of Fate**](038.md)
+
+[**The Open Hand**](039.md)
+
+[**The Waterfall**](040.md)
+
+[**The Spear with Two Points**](041.md)
+
+[**The Hunter Who Never Missed**](042.md)
+
+[**The Final Bow Before Battle**](043.md)
+
+[**The Warrior Who Learned to Ask for Help**](046.md)
+
+[**The Man Who Forgave His Father**](047.md)
+
+[**The Warrior Who Learned to Receive Love**](048.md)
+
+[**The Man Who Broke the Cycle with His Children**](049.md)
+
+[**The Warrior Who Found Purpose Beyond Survival**](050.md)
+
+[**The Grandfather's Confession**](054.md)
+
+[**The Fire Embers**](055.md)
+
+[**TRANSITIONS**](062.md)
+
+---
+
+## PART THREE: THE PATTERNS (UNDERSTANDING YOUR WOUNDS)
+
+[**THE DISCARDED HEART**](060.md)
+
+[**AFFIRMATION FROM OTHERS**](060.md#2-affirmation-from-others)
+
+[**HEALING THE CYCLE**](060.md#3-healing-the-cycle)
+
+[**HARD TRUTHS OF THE HEART**](060.md#4-hard-truths-of-the-heart)
+
+[**ANGER: THE LANGUAGE OF FEAR**](060.md#5-anger-the-language-of-fear)
+
+[**TRANSFORMING YOUR INTERNAL DIALOGUE**](060.md#6-transforming-your-internal-dialogue)
+
+[**GLOSSARY OF EMOTIONS, COGNITIVE BIASES, DEFENSIVE PATTERNS, AND HEALING CONCEPTS**](060.md#7-glossary-of-emotions-cognitive-biases-defensive-patterns-and-healing-concepts)
+
+[**ADDITIONAL PATTERNS: DEEPER LAYERS OF HEALING**](060.md#8-additional-patterns-deeper-layers-of-healing)
+
+[**A WARRIOR GRANDFATHER'S DRAGON**](061.md)
+
+---
+
+## PART FOUR: THE WORKSHEETS (TRANSFORMING YOUR INTERNAL DIALOGUE)
+
+[**FROM SELF-DESTRUCTION TO SELF-COMPASSION**](063.md)
+
+[**ABANDONMENT AND REJECTION: THE FEAR OF BEING LEFT**](063.md)
+
+[**SELF-WORTH AND IDENTITY: THE BELIEF THAT YOU'RE NOT ENOUGH**](063.md)
+
+[**RELATIONSHIPS AND CONNECTION: THE FEAR OF INTIMACY AND TRUST**](063.md)
+
+[**EMOTIONS AND VULNERABILITY: THE FEAR OF FEELING**](063.md)
+
+[**CONTROL AND PERFECTIONISM: THE ILLUSION OF SAFETY**](063.md)
+
+[**RESPONSIBILITY AND ACCOUNTABILITY: THE BALANCE BETWEEN SELF-BLAME AND DENIAL**](063.md)
+
+[**FORGIVENESS AND LETTING GO: THE WEIGHT OF THE PAST**](063.md)
+
+[**HOPE AND FUTURE: THE FEAR OF BELIEVING THINGS CAN CHANGE**](063.md)
+
+[**INTEGRATION: PRACTICING THE SHIFT FROM UNHEALTHY TO HEALTHY DIALOGUE**](063.md)
+
+[**ADDITIONAL WORKSHEETS: SPECIALIZED TOPICS**](063.md)
+
+[**CONCLUSION: THE FOUNDATION OF HEALING**](063.md)
+
+---
+
+## PART FIVE: THE WORKBOOK (APPENDIX)
+
+[**WRITING YOUR LIFE: A CATHARTIC BIOGRAPHY**](066.md)
+
+[**THE FULL 10-PART BIOGRAPHY OUTLINE**](066.md)
+
+[**PRACTICAL WRITING INSTRUCTIONS**](066.md)
+
+[**ADVANCED SELF-REFLECTION TECHNIQUES**](066.md)
+
+[**TURNING THE BIOGRAPHY INTO A COHERENT BOOK**](066.md)
+
+[**CLOSING: THE PURPOSE OF YOUR BIOGRAPHY**](066.md)
+
+[**GUIDED WRITING WORKSHEETS FOR EACH SECTION**](066.md)
+
+[**PROMPTS FOR TRAUMA EXPLORATION**](066.md)
+
+[**COGNITIVE-BIAS WORKSHEETS**](066.md)
+
+[**FULL TRAUMA-INFORMED WRITING GUIDE**](066.md)
+
+[**CHAPTER-BY-CHAPTER COACHING FOR HIS AUTOBIOGRAPHY**](066.md)
+
+[**"DIALOGUE WITH YOUR YOUNGER SELF" GUIDED JOURNAL**](066.md)
+
+[**PRINTABLE WORKBOOK: TRAUMA GUIDE + AUTOBIOGRAPHY COACHING**](066.md)
+
+---
+
+## APPENDICES
+
+[**QUICK REFERENCE GUIDE**](068.md)
+
+[**PROGRESS TRACKING TOOLS**](065.md)
+
+[**GLOSSARY AND INDEX**](069.md)
+
+[**FINAL CONCLUSION**](070.md)
+
+---
+
+## PART SIX: ADDITIONAL RESOURCES
+
+[**ADDITIONAL PRACTICAL TOOLS**](064.md)
+
+[**GUIDES AND RESOURCES**](067.md)
+
+---
+
+
+
+*This table of contents provides a complete map of your healing journey. Use it to navigate between stories, patterns, and practice. Return to it whenever you need to find a specific concept, parable, or exercise.*
