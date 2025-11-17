@@ -1,7 +1,7 @@
 # FACING THE DRAGON
 ## A Warrior's Path to Healing
 
----
+![Walking Road](walking.road.png)
 
 **FRANK DYLAN DEL ROSARIO**
 
