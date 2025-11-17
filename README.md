@@ -114,6 +114,8 @@ The dragon is waiting. It's time to face it.
 *Frank Dylan del Rosario*  
 *2025*
 
+![Dragon Sword](Dragon.Sword.png)
+
 [Table of Contents](000.md)
 
 # TABLE OF CONTENTS
