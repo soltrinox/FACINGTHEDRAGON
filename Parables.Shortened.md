@@ -1,4 +1,12 @@
+> **WORKING DRAFT — DO NOT PUBLISH.**
+>
+> This file is an abridged compilation of parables, retained as a working draft for internal reference only. It is **not** the canonical manuscript and **is not** kept in sync with edits made to the per-parable files (`004.md` through `055.md`). It is also missing the integration parables (046–050) and the capstone material introduced in production-ready revisions.
+>
+> **Canonical text:** the per-parable files (`004.md`–`055.md`), the Table of Contents at [000.md](000.md), and the sequencing guide at [003.md](003.md).
+>
+> **Disposition:** Archive only. If a labeled "abridged companion edition" is ever desired, rebuild it from the current long-form chapters rather than continuing this file.
 
+---
 
 # **🔥 A WARRIOR GRANDFATHER'S DRAGON 🔥**
 

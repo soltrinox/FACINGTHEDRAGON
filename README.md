@@ -140,8 +140,6 @@ The dragon is waiting. It's time to face it.
 
 [**Respect: The Gateway to the Dragon**](007.md)
 
-[**How Respect Became a Path to Violence**](008.md)
-
 [**The Real Nature of the Dragon**](009.md)
 
 [**The Dragon of Wounded Pride**](010.md)
@@ -149,8 +147,6 @@ The dragon is waiting. It's time to face it.
 [**What It Means to Face the Dragon**](011.md)
 
 [**The Fire Inside**](012.md)
-
-[**Why a Young Man Stops Caring About Others**](014.md)
 
 [**The Unseen Wound**](015.md)
 
@@ -198,8 +194,6 @@ The dragon is waiting. It's time to face it.
 
 [**The Echoing Cave**](037.md)
 
-[**The Threads of Fate**](038.md)
-
 [**The Open Hand**](039.md)
 
 [**The Waterfall**](040.md)
@@ -213,8 +207,6 @@ The dragon is waiting. It's time to face it.
 [**The Warrior Who Learned to Ask for Help**](046.md)
 
 [**The Man Who Forgave His Father**](047.md)
-
-[**The Warrior Who Learned to Receive Love**](048.md)
 
 [**The Man Who Broke the Cycle with His Children**](049.md)
 
