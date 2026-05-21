@@ -31,30 +31,34 @@ while IFS= read -r file || [[ -n "$file" ]]; do
     -e '/\[Table of Contents\]\(000\.md\)/d' \
     "$src" > "$tmp"
 
-  if grep -qE '^# ' "$tmp"; then
-    awk -v id="$id" '
-      /^# / && !done {
-        $0 = $0 " {#" id "}"
-        done = 1
-      }
-      { print }
-    ' "$tmp" > "${tmp}.2"
-    mv "${tmp}.2" "$tmp"
-  elif [[ "$file" == "000.md" ]]; then
-    {
-      echo "# Table of Contents {#000}"
-      echo
-      cat "$tmp"
-    } > "${tmp}.2"
-    mv "${tmp}.2" "$tmp"
-  fi
+  python3 - "$tmp" "$id" "$file" <<'PY'
+import re, sys
+from pathlib import Path
+path, chap_id, filename = sys.argv[1], sys.argv[2], sys.argv[3]
+text = Path(path).read_text()
+lines = text.splitlines(keepends=True)
+out = []
+has_h1 = any(re.match(r'^# ', l) for l in lines)
+for i, line in enumerate(lines):
+    if not has_h1 and filename == "000.md" and i == 0:
+        out.append("# Table of Contents {#000}\n\n")
+    if re.match(r'^# ', line) and not re.search(r'\{#', line):
+        if not any(re.match(r'^# ', l) and re.search(r'\{#', l) for l in out):
+            line = line.rstrip("\n") + f" {{#{chap_id}}}\n"
+        elif re.match(r'^# \d+\.', line):
+            m = re.match(r'^# (\d+)\.\s+(.*?)\s*$', line)
+            if m:
+                n, rest = m.group(1), m.group(2)
+                slug = re.sub(r'[^a-z0-9]+', '-', rest.lower().strip(':.')).strip('-')
+                line = f"# {n}. {rest} {{#{n}-{slug}}}\n"
+    elif not has_h1 and re.match(r'^## ', line) and not any(re.match(r'^# ', l) for l in out):
+        title = re.sub(r'^## ', '', line).strip()
+        line = f"# {title} {{#{chap_id}}}\n"
+    out.append(line)
+open(path, 'w').writelines(out)
+PY
 
-  sed -E \
-    -e 's/\]\(([0-9]+)\.md#([^)]+)\)/](#\2)/g' \
-    -e 's/\]\(([0-9]+)\.md\)/](#\L\1)/g' \
-    -e 's/\]\(0\.md\)/](#0)/g' \
-    "$tmp" >> "$OUT"
-
+  "$BUILD/rewrite-links.pl" "$tmp" >> "$OUT"
   rm -f "$tmp"
 done < "$ORDER"
 
