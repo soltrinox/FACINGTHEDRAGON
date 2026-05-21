@@ -1,0 +1,65 @@
+=== Book Structure Audit 20260521-124533 ===
+ROOT: /Users/rosario/work/PRODUCTION-BOOK
+
+Manifest entries: 60
+[FAIL] Stale pattern /Section 7\./ in: /Users/rosario/work/PRODUCTION-BOOK/build/combined.md 
+[FAIL] Stale pattern /Section 8\.[45]/ in: /Users/rosario/work/PRODUCTION-BOOK/build/combined.md 
+[FAIL] Stale pattern /Why a Young Man Stops/ in: /Users/rosario/work/PRODUCTION-BOOK/build/combined.md 
+[FAIL] Stale pattern /QUESTIONS\.001/ in: /Users/rosario/work/PRODUCTION-BOOK/PRODUCTION_READY_EXECUTION_REPORT.md 
+[FAIL] Stale pattern /BASE\.001/ in: /Users/rosario/work/PRODUCTION-BOOK/PRODUCTION_READY_EXECUTION_REPORT.md 
+[PASS] No links to deleted 008.md
+[PASS] No links to deleted 014.md
+[PASS] No links to deleted 038.md
+[PASS] No links to deleted 048.md
+[PASS] All md links resolve
+[FAIL] 00-title nav missing next chapter
+[FAIL] 00-toc nav missing link to 00-title.md
+[FAIL] 00-toc nav missing next chapter
+[PASS] Nav chain verified
+[PASS] 05-reluctant-student.md has one H1
+[PASS] 06-grandfather-speaks-of-worth.md has one H1
+[PASS] 07-unheard-boy.md has one H1
+[PASS] 08-respect-gateway.md has one H1
+[PASS] 09-real-nature-of-dragon.md has one H1
+[PASS] 10-dragon-wounded-pride.md has one H1
+[PASS] 11-what-it-means-to-face.md has one H1
+[PASS] 12-fire-inside.md has one H1
+[PASS] 13-unseen-wound.md has one H1
+[PASS] 14-wounded-bear.md has one H1
+[PASS] 15-chained-giant.md has one H1
+[PASS] 16-shattered-helmet.md has one H1
+[PASS] 17-warrior-could-not-cry.md has one H1
+[PASS] 18-lion-feared-roar.md has one H1
+[PASS] 19-two-wolves-river.md has one H1
+[PASS] 20-three-rivers.md has one H1
+[PASS] 21-empty-quiver.md has one H1
+[PASS] 22-unfinished-mask.md has one H1
+[PASS] 23-seven-doors.md has one H1
+[PASS] 24-test-six-mirrors.md has one H1
+[PASS] 25-warrior-walked-backward.md has one H1
+[PASS] 26-warrior-chased-shadows.md has one H1
+[PASS] 27-anvil-and-sword.md has one H1
+[PASS] 28-blacksmiths-tongs.md has one H1
+[PASS] 29-silent-stone.md has one H1
+[PASS] 30-thornling-tree.md has one H1
+[PASS] 31-haunted-blade.md has one H1
+[PASS] 32-masterless-horse.md has one H1
+[PASS] 33-broken-drum.md has one H1
+[PASS] 34-lamp-no-oil.md has one H1
+[PASS] 35-echoing-cave.md has one H1
+[PASS] 36-open-hand.md has one H1
+[PASS] 37-waterfall.md has one H1
+[PASS] 38-spear-two-points.md has one H1
+[PASS] 39-hunter-never-missed.md has one H1
+[PASS] 40-final-bow-before-battle.md has one H1
+[PASS] 41-ask-for-help.md has one H1
+[PASS] 42-forgave-his-father.md has one H1
+[PASS] 43-broke-the-cycle.md has one H1
+[PASS] 44-purpose-beyond-survival.md has one H1
+[PASS] 45-grandfathers-confession.md has one H1
+[PASS] 46-fire-embers.md has one H1
+[PASS] build/order.txt matches manifest count (60)
+[PASS] build/order.txt order matches manifest
+[PASS] chapters 1-58 present
+
+[FAIL] Audit complete — failures detected

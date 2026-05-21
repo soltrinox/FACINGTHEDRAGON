@@ -1,0 +1,704 @@
+version: 1
+files:
+- legacy: 0.md
+  create: false
+  new_file: 00-title.md
+  chapter: null
+  part: null
+  title: Title / Copyright / Preface
+  slug: title
+  nav_prev: null
+  nav_next: 00-toc.md
+  nav_prev_label: null
+  nav_next_label: Table of Contents
+- legacy: 000.md
+  create: false
+  new_file: 00-toc.md
+  chapter: null
+  part: null
+  title: Table of Contents
+  slug: toc
+  nav_prev: 00-title.md
+  nav_next: 01-warriors-facing-dragons.md
+  nav_prev_label: Title / Copyright / Preface
+  nav_next_label: Chapter 1 — Warriors Facing Dragons
+- legacy: 001.md
+  create: false
+  new_file: 01-warriors-facing-dragons.md
+  chapter: 1
+  part: I Foundation
+  title: Warriors Facing Dragons
+  slug: warriors-facing-dragons
+  nav_prev: 00-toc.md
+  nav_next: 02-crisis-resources.md
+  nav_prev_label: Table of Contents
+  nav_next_label: Chapter 2 — Crisis Resources and Safety Protocols
+- legacy: 002.md
+  create: false
+  new_file: 02-crisis-resources.md
+  chapter: 2
+  part: I Foundation
+  title: Crisis Resources and Safety Protocols
+  slug: crisis-resources
+  nav_prev: 01-warriors-facing-dragons.md
+  nav_next: 03-chapter-sequencing-guide.md
+  nav_prev_label: Chapter 1 — Warriors Facing Dragons
+  nav_next_label: Chapter 3 — Chapter Sequencing Guide
+- legacy: 003.md
+  create: false
+  new_file: 03-chapter-sequencing-guide.md
+  chapter: 3
+  part: I Foundation
+  title: Chapter Sequencing Guide
+  slug: chapter-sequencing-guide
+  nav_prev: 02-crisis-resources.md
+  nav_next: 04-transitions.md
+  nav_prev_label: Chapter 2 — Crisis Resources and Safety Protocols
+  nav_next_label: Chapter 4 — Transitions
+- legacy: 062.md
+  create: false
+  new_file: 04-transitions.md
+  chapter: 4
+  part: II Parables
+  title: Transitions
+  slug: transitions
+  nav_prev: 03-chapter-sequencing-guide.md
+  nav_next: 05-reluctant-student.md
+  nav_prev_label: Chapter 3 — Chapter Sequencing Guide
+  nav_next_label: Chapter 5 — The Reluctant Student
+- legacy: 004.md
+  create: false
+  new_file: 05-reluctant-student.md
+  chapter: 5
+  part: II Parables
+  title: The Reluctant Student
+  slug: reluctant-student
+  parable: true
+  nav_prev: 04-transitions.md
+  nav_next: 06-grandfather-speaks-of-worth.md
+  nav_prev_label: Chapter 4 — Transitions
+  nav_next_label: Chapter 6 — The Grandfather Speaks of Worth
+- legacy: 005.md
+  create: false
+  new_file: 06-grandfather-speaks-of-worth.md
+  chapter: 6
+  part: II Parables
+  title: The Grandfather Speaks of Worth
+  slug: grandfather-speaks-of-worth
+  parable: true
+  nav_prev: 05-reluctant-student.md
+  nav_next: 07-unheard-boy.md
+  nav_prev_label: Chapter 5 — The Reluctant Student
+  nav_next_label: Chapter 7 — The Unheard Boy
+- legacy: 006.md
+  create: false
+  new_file: 07-unheard-boy.md
+  chapter: 7
+  part: II Parables
+  title: The Unheard Boy
+  slug: unheard-boy
+  parable: true
+  nav_prev: 06-grandfather-speaks-of-worth.md
+  nav_next: 08-respect-gateway.md
+  nav_prev_label: Chapter 6 — The Grandfather Speaks of Worth
+  nav_next_label: 'Chapter 8 — Respect: The Gateway to the Dragon'
+- legacy: 007.md
+  create: false
+  new_file: 08-respect-gateway.md
+  chapter: 8
+  part: II Parables
+  title: 'Respect: The Gateway to the Dragon'
+  slug: respect-gateway
+  parable: true
+  nav_prev: 07-unheard-boy.md
+  nav_next: 09-real-nature-of-dragon.md
+  nav_prev_label: Chapter 7 — The Unheard Boy
+  nav_next_label: Chapter 9 — The Real Nature of the Dragon
+- legacy: 009.md
+  create: false
+  new_file: 09-real-nature-of-dragon.md
+  chapter: 9
+  part: II Parables
+  title: The Real Nature of the Dragon
+  slug: real-nature-of-dragon
+  parable: true
+  nav_prev: 08-respect-gateway.md
+  nav_next: 10-dragon-wounded-pride.md
+  nav_prev_label: 'Chapter 8 — Respect: The Gateway to the Dragon'
+  nav_next_label: Chapter 10 — The Dragon of Wounded Pride
+- legacy: 010.md
+  create: false
+  new_file: 10-dragon-wounded-pride.md
+  chapter: 10
+  part: II Parables
+  title: The Dragon of Wounded Pride
+  slug: dragon-wounded-pride
+  parable: true
+  nav_prev: 09-real-nature-of-dragon.md
+  nav_next: 11-what-it-means-to-face.md
+  nav_prev_label: Chapter 9 — The Real Nature of the Dragon
+  nav_next_label: Chapter 11 — What It Means to Face the Dragon
+- legacy: 011.md
+  create: false
+  new_file: 11-what-it-means-to-face.md
+  chapter: 11
+  part: II Parables
+  title: What It Means to Face the Dragon
+  slug: what-it-means-to-face
+  parable: true
+  nav_prev: 10-dragon-wounded-pride.md
+  nav_next: 12-fire-inside.md
+  nav_prev_label: Chapter 10 — The Dragon of Wounded Pride
+  nav_next_label: Chapter 12 — The Fire Inside
+- legacy: 012.md
+  create: false
+  new_file: 12-fire-inside.md
+  chapter: 12
+  part: II Parables
+  title: The Fire Inside
+  slug: fire-inside
+  parable: true
+  nav_prev: 11-what-it-means-to-face.md
+  nav_next: 13-unseen-wound.md
+  nav_prev_label: Chapter 11 — What It Means to Face the Dragon
+  nav_next_label: Chapter 13 — The Unseen Wound
+- legacy: 015.md
+  create: false
+  new_file: 13-unseen-wound.md
+  chapter: 13
+  part: II Parables
+  title: The Unseen Wound
+  slug: unseen-wound
+  parable: true
+  nav_prev: 12-fire-inside.md
+  nav_next: 14-wounded-bear.md
+  nav_prev_label: Chapter 12 — The Fire Inside
+  nav_next_label: Chapter 14 — The Wounded Bear
+- legacy: 016.md
+  create: false
+  new_file: 14-wounded-bear.md
+  chapter: 14
+  part: II Parables
+  title: The Wounded Bear
+  slug: wounded-bear
+  parable: true
+  nav_prev: 13-unseen-wound.md
+  nav_next: 15-chained-giant.md
+  nav_prev_label: Chapter 13 — The Unseen Wound
+  nav_next_label: Chapter 15 — The Chained Giant
+- legacy: 017.md
+  create: false
+  new_file: 15-chained-giant.md
+  chapter: 15
+  part: II Parables
+  title: The Chained Giant
+  slug: chained-giant
+  parable: true
+  nav_prev: 14-wounded-bear.md
+  nav_next: 16-shattered-helmet.md
+  nav_prev_label: Chapter 14 — The Wounded Bear
+  nav_next_label: Chapter 16 — The Shattered Helmet
+- legacy: 018.md
+  create: false
+  new_file: 16-shattered-helmet.md
+  chapter: 16
+  part: II Parables
+  title: The Shattered Helmet
+  slug: shattered-helmet
+  parable: true
+  nav_prev: 15-chained-giant.md
+  nav_next: 17-warrior-could-not-cry.md
+  nav_prev_label: Chapter 15 — The Chained Giant
+  nav_next_label: Chapter 17 — The Warrior Who Could Not Cry
+- legacy: 019.md
+  create: false
+  new_file: 17-warrior-could-not-cry.md
+  chapter: 17
+  part: II Parables
+  title: The Warrior Who Could Not Cry
+  slug: warrior-could-not-cry
+  parable: true
+  nav_prev: 16-shattered-helmet.md
+  nav_next: 18-lion-feared-roar.md
+  nav_prev_label: Chapter 16 — The Shattered Helmet
+  nav_next_label: Chapter 18 — The Lion Who Feared His Roar
+- legacy: 020.md
+  create: false
+  new_file: 18-lion-feared-roar.md
+  chapter: 18
+  part: II Parables
+  title: The Lion Who Feared His Roar
+  slug: lion-feared-roar
+  parable: true
+  nav_prev: 17-warrior-could-not-cry.md
+  nav_next: 19-two-wolves-river.md
+  nav_prev_label: Chapter 17 — The Warrior Who Could Not Cry
+  nav_next_label: Chapter 19 — The Two Wolves by the River
+- legacy: 021.md
+  create: false
+  new_file: 19-two-wolves-river.md
+  chapter: 19
+  part: II Parables
+  title: The Two Wolves by the River
+  slug: two-wolves-river
+  parable: true
+  nav_prev: 18-lion-feared-roar.md
+  nav_next: 20-three-rivers.md
+  nav_prev_label: Chapter 18 — The Lion Who Feared His Roar
+  nav_next_label: Chapter 20 — The Three Rivers
+- legacy: 022.md
+  create: false
+  new_file: 20-three-rivers.md
+  chapter: 20
+  part: II Parables
+  title: The Three Rivers
+  slug: three-rivers
+  parable: true
+  nav_prev: 19-two-wolves-river.md
+  nav_next: 21-empty-quiver.md
+  nav_prev_label: Chapter 19 — The Two Wolves by the River
+  nav_next_label: Chapter 21 — The Empty Quiver
+- legacy: 023.md
+  create: false
+  new_file: 21-empty-quiver.md
+  chapter: 21
+  part: II Parables
+  title: The Empty Quiver
+  slug: empty-quiver
+  parable: true
+  nav_prev: 20-three-rivers.md
+  nav_next: 22-unfinished-mask.md
+  nav_prev_label: Chapter 20 — The Three Rivers
+  nav_next_label: Chapter 22 — The Unfinished Mask
+- legacy: 024.md
+  create: false
+  new_file: 22-unfinished-mask.md
+  chapter: 22
+  part: II Parables
+  title: The Unfinished Mask
+  slug: unfinished-mask
+  parable: true
+  nav_prev: 21-empty-quiver.md
+  nav_next: 23-seven-doors.md
+  nav_prev_label: Chapter 21 — The Empty Quiver
+  nav_next_label: Chapter 23 — The Seven Doors
+- legacy: 025.md
+  create: false
+  new_file: 23-seven-doors.md
+  chapter: 23
+  part: II Parables
+  title: The Seven Doors
+  slug: seven-doors
+  parable: true
+  nav_prev: 22-unfinished-mask.md
+  nav_next: 24-test-six-mirrors.md
+  nav_prev_label: Chapter 22 — The Unfinished Mask
+  nav_next_label: Chapter 24 — The Test of the Six Mirrors
+- legacy: 026.md
+  create: false
+  new_file: 24-test-six-mirrors.md
+  chapter: 24
+  part: II Parables
+  title: The Test of the Six Mirrors
+  slug: test-six-mirrors
+  parable: true
+  nav_prev: 23-seven-doors.md
+  nav_next: 25-warrior-walked-backward.md
+  nav_prev_label: Chapter 23 — The Seven Doors
+  nav_next_label: Chapter 25 — The Warrior Who Walked Backward
+- legacy: 027.md
+  create: false
+  new_file: 25-warrior-walked-backward.md
+  chapter: 25
+  part: II Parables
+  title: The Warrior Who Walked Backward
+  slug: warrior-walked-backward
+  parable: true
+  nav_prev: 24-test-six-mirrors.md
+  nav_next: 26-warrior-chased-shadows.md
+  nav_prev_label: Chapter 24 — The Test of the Six Mirrors
+  nav_next_label: Chapter 26 — The Warrior Who Chased Every Shadow
+- legacy: 028.md
+  create: false
+  new_file: 26-warrior-chased-shadows.md
+  chapter: 26
+  part: II Parables
+  title: The Warrior Who Chased Every Shadow
+  slug: warrior-chased-shadows
+  parable: true
+  nav_prev: 25-warrior-walked-backward.md
+  nav_next: 27-anvil-and-sword.md
+  nav_prev_label: Chapter 25 — The Warrior Who Walked Backward
+  nav_next_label: Chapter 27 — The Anvil and the Sword
+- legacy: 029.md
+  create: false
+  new_file: 27-anvil-and-sword.md
+  chapter: 27
+  part: II Parables
+  title: The Anvil and the Sword
+  slug: anvil-and-sword
+  parable: true
+  nav_prev: 26-warrior-chased-shadows.md
+  nav_next: 28-blacksmiths-tongs.md
+  nav_prev_label: Chapter 26 — The Warrior Who Chased Every Shadow
+  nav_next_label: Chapter 28 — The Blacksmith's Tongs
+- legacy: 030.md
+  create: false
+  new_file: 28-blacksmiths-tongs.md
+  chapter: 28
+  part: II Parables
+  title: The Blacksmith's Tongs
+  slug: blacksmiths-tongs
+  parable: true
+  nav_prev: 27-anvil-and-sword.md
+  nav_next: 29-silent-stone.md
+  nav_prev_label: Chapter 27 — The Anvil and the Sword
+  nav_next_label: Chapter 29 — The Silent Stone
+- legacy: 031.md
+  create: false
+  new_file: 29-silent-stone.md
+  chapter: 29
+  part: II Parables
+  title: The Silent Stone
+  slug: silent-stone
+  parable: true
+  nav_prev: 28-blacksmiths-tongs.md
+  nav_next: 30-thornling-tree.md
+  nav_prev_label: Chapter 28 — The Blacksmith's Tongs
+  nav_next_label: Chapter 30 — The Thornling Tree
+- legacy: 032.md
+  create: false
+  new_file: 30-thornling-tree.md
+  chapter: 30
+  part: II Parables
+  title: The Thornling Tree
+  slug: thornling-tree
+  parable: true
+  nav_prev: 29-silent-stone.md
+  nav_next: 31-haunted-blade.md
+  nav_prev_label: Chapter 29 — The Silent Stone
+  nav_next_label: Chapter 31 — The Haunted Blade
+- legacy: 033.md
+  create: false
+  new_file: 31-haunted-blade.md
+  chapter: 31
+  part: II Parables
+  title: The Haunted Blade
+  slug: haunted-blade
+  parable: true
+  nav_prev: 30-thornling-tree.md
+  nav_next: 32-masterless-horse.md
+  nav_prev_label: Chapter 30 — The Thornling Tree
+  nav_next_label: Chapter 32 — The Masterless Horse
+- legacy: 034.md
+  create: false
+  new_file: 32-masterless-horse.md
+  chapter: 32
+  part: II Parables
+  title: The Masterless Horse
+  slug: masterless-horse
+  parable: true
+  nav_prev: 31-haunted-blade.md
+  nav_next: 33-broken-drum.md
+  nav_prev_label: Chapter 31 — The Haunted Blade
+  nav_next_label: Chapter 33 — The Broken Drum
+- legacy: 035.md
+  create: false
+  new_file: 33-broken-drum.md
+  chapter: 33
+  part: II Parables
+  title: The Broken Drum
+  slug: broken-drum
+  parable: true
+  nav_prev: 32-masterless-horse.md
+  nav_next: 34-lamp-no-oil.md
+  nav_prev_label: Chapter 32 — The Masterless Horse
+  nav_next_label: Chapter 34 — The Lamp with No Oil
+- legacy: 036.md
+  create: false
+  new_file: 34-lamp-no-oil.md
+  chapter: 34
+  part: II Parables
+  title: The Lamp with No Oil
+  slug: lamp-no-oil
+  parable: true
+  nav_prev: 33-broken-drum.md
+  nav_next: 35-echoing-cave.md
+  nav_prev_label: Chapter 33 — The Broken Drum
+  nav_next_label: Chapter 35 — The Echoing Cave
+- legacy: 037.md
+  create: false
+  new_file: 35-echoing-cave.md
+  chapter: 35
+  part: II Parables
+  title: The Echoing Cave
+  slug: echoing-cave
+  parable: true
+  nav_prev: 34-lamp-no-oil.md
+  nav_next: 36-open-hand.md
+  nav_prev_label: Chapter 34 — The Lamp with No Oil
+  nav_next_label: Chapter 36 — The Open Hand
+- legacy: 039.md
+  create: false
+  new_file: 36-open-hand.md
+  chapter: 36
+  part: II Parables
+  title: The Open Hand
+  slug: open-hand
+  parable: true
+  nav_prev: 35-echoing-cave.md
+  nav_next: 37-waterfall.md
+  nav_prev_label: Chapter 35 — The Echoing Cave
+  nav_next_label: Chapter 37 — The Waterfall
+- legacy: 040.md
+  create: false
+  new_file: 37-waterfall.md
+  chapter: 37
+  part: II Parables
+  title: The Waterfall
+  slug: waterfall
+  parable: true
+  nav_prev: 36-open-hand.md
+  nav_next: 38-spear-two-points.md
+  nav_prev_label: Chapter 36 — The Open Hand
+  nav_next_label: Chapter 38 — The Spear with Two Points
+- legacy: 041.md
+  create: false
+  new_file: 38-spear-two-points.md
+  chapter: 38
+  part: II Parables
+  title: The Spear with Two Points
+  slug: spear-two-points
+  parable: true
+  nav_prev: 37-waterfall.md
+  nav_next: 39-hunter-never-missed.md
+  nav_prev_label: Chapter 37 — The Waterfall
+  nav_next_label: Chapter 39 — The Hunter Who Never Missed
+- legacy: 042.md
+  create: false
+  new_file: 39-hunter-never-missed.md
+  chapter: 39
+  part: II Parables
+  title: The Hunter Who Never Missed
+  slug: hunter-never-missed
+  parable: true
+  nav_prev: 38-spear-two-points.md
+  nav_next: 40-final-bow-before-battle.md
+  nav_prev_label: Chapter 38 — The Spear with Two Points
+  nav_next_label: Chapter 40 — The Final Bow Before Battle
+- legacy: 043.md
+  create: false
+  new_file: 40-final-bow-before-battle.md
+  chapter: 40
+  part: II Parables
+  title: The Final Bow Before Battle
+  slug: final-bow-before-battle
+  parable: true
+  nav_prev: 39-hunter-never-missed.md
+  nav_next: 41-ask-for-help.md
+  nav_prev_label: Chapter 39 — The Hunter Who Never Missed
+  nav_next_label: Chapter 41 — The Warrior Who Learned to Ask for Help
+- legacy: 046.md
+  create: false
+  new_file: 41-ask-for-help.md
+  chapter: 41
+  part: II Parables
+  title: The Warrior Who Learned to Ask for Help
+  slug: ask-for-help
+  parable: true
+  nav_prev: 40-final-bow-before-battle.md
+  nav_next: 42-forgave-his-father.md
+  nav_prev_label: Chapter 40 — The Final Bow Before Battle
+  nav_next_label: Chapter 42 — The Man Who Forgave His Father
+- legacy: 047.md
+  create: false
+  new_file: 42-forgave-his-father.md
+  chapter: 42
+  part: II Parables
+  title: The Man Who Forgave His Father
+  slug: forgave-his-father
+  parable: true
+  nav_prev: 41-ask-for-help.md
+  nav_next: 43-broke-the-cycle.md
+  nav_prev_label: Chapter 41 — The Warrior Who Learned to Ask for Help
+  nav_next_label: Chapter 43 — The Man Who Broke the Cycle with His Children
+- legacy: 049.md
+  create: false
+  new_file: 43-broke-the-cycle.md
+  chapter: 43
+  part: II Parables
+  title: The Man Who Broke the Cycle with His Children
+  slug: broke-the-cycle
+  parable: true
+  nav_prev: 42-forgave-his-father.md
+  nav_next: 44-purpose-beyond-survival.md
+  nav_prev_label: Chapter 42 — The Man Who Forgave His Father
+  nav_next_label: Chapter 44 — The Warrior Who Found Purpose Beyond Survival
+- legacy: 050.md
+  create: false
+  new_file: 44-purpose-beyond-survival.md
+  chapter: 44
+  part: II Parables
+  title: The Warrior Who Found Purpose Beyond Survival
+  slug: purpose-beyond-survival
+  parable: true
+  nav_prev: 43-broke-the-cycle.md
+  nav_next: 45-grandfathers-confession.md
+  nav_prev_label: Chapter 43 — The Man Who Broke the Cycle with His Children
+  nav_next_label: Chapter 45 — The Grandfather's Confession
+- legacy: 054.md
+  create: false
+  new_file: 45-grandfathers-confession.md
+  chapter: 45
+  part: II Parables
+  title: The Grandfather's Confession
+  slug: grandfathers-confession
+  parable: true
+  nav_prev: 44-purpose-beyond-survival.md
+  nav_next: 46-fire-embers.md
+  nav_prev_label: Chapter 44 — The Warrior Who Found Purpose Beyond Survival
+  nav_next_label: Chapter 46 — The Fire Embers
+- legacy: 055.md
+  create: false
+  new_file: 46-fire-embers.md
+  chapter: 46
+  part: II Parables
+  title: The Fire Embers
+  slug: fire-embers
+  parable: true
+  nav_prev: 45-grandfathers-confession.md
+  nav_next: 47-parable-summary.md
+  nav_prev_label: Chapter 45 — The Grandfather's Confession
+  nav_next_label: Chapter 47 — Summary of Parables and Core Principles
+- legacy: 061.md
+  create: false
+  new_file: 47-parable-summary.md
+  chapter: 47
+  part: II Parables
+  title: Summary of Parables and Core Principles
+  slug: parable-summary
+  nav_prev: 46-fire-embers.md
+  nav_next: 48-discarded-heart.md
+  nav_prev_label: Chapter 46 — The Fire Embers
+  nav_next_label: Chapter 48 — The Discarded Heart (Patterns)
+- legacy: 060.md
+  create: false
+  new_file: 48-discarded-heart.md
+  chapter: 48
+  part: III Patterns
+  title: The Discarded Heart (Patterns)
+  slug: discarded-heart
+  nav_prev: 47-parable-summary.md
+  nav_next: 49-self-destruction-to-compassion.md
+  nav_prev_label: Chapter 47 — Summary of Parables and Core Principles
+  nav_next_label: Chapter 49 — From Self-Destruction to Self-Compassion
+- legacy: 063.md
+  create: false
+  new_file: 49-self-destruction-to-compassion.md
+  chapter: 49
+  part: IV Worksheets
+  title: From Self-Destruction to Self-Compassion
+  slug: self-destruction-to-compassion
+  nav_prev: 48-discarded-heart.md
+  nav_next: 50-writing-your-life.md
+  nav_prev_label: Chapter 48 — The Discarded Heart (Patterns)
+  nav_next_label: Chapter 50 — Writing Your Life
+- legacy: 066.md
+  create: false
+  new_file: 50-writing-your-life.md
+  chapter: 50
+  part: V Workbook
+  title: Writing Your Life
+  slug: writing-your-life
+  nav_prev: 49-self-destruction-to-compassion.md
+  nav_next: 51-practical-tools.md
+  nav_prev_label: Chapter 49 — From Self-Destruction to Self-Compassion
+  nav_next_label: Chapter 51 — Additional Practical Tools
+- legacy: 064.md
+  create: false
+  new_file: 51-practical-tools.md
+  chapter: 51
+  part: VI Tools
+  title: Additional Practical Tools
+  slug: practical-tools
+  nav_prev: 50-writing-your-life.md
+  nav_next: 52-progress-tracking.md
+  nav_prev_label: Chapter 50 — Writing Your Life
+  nav_next_label: Chapter 52 — Progress Tracking Tools
+- legacy: 065.md
+  create: false
+  new_file: 52-progress-tracking.md
+  chapter: 52
+  part: VI Tools
+  title: Progress Tracking Tools
+  slug: progress-tracking
+  nav_prev: 51-practical-tools.md
+  nav_next: 53-guides-and-resources.md
+  nav_prev_label: Chapter 51 — Additional Practical Tools
+  nav_next_label: Chapter 53 — Guides and Resources
+- legacy: 067.md
+  create: false
+  new_file: 53-guides-and-resources.md
+  chapter: 53
+  part: VI Tools
+  title: Guides and Resources
+  slug: guides-and-resources
+  nav_prev: 52-progress-tracking.md
+  nav_next: 54-quick-reference.md
+  nav_prev_label: Chapter 52 — Progress Tracking Tools
+  nav_next_label: Chapter 54 — Quick Reference Guide
+- legacy: 068.md
+  create: false
+  new_file: 54-quick-reference.md
+  chapter: 54
+  part: Appendices
+  title: Quick Reference Guide
+  slug: quick-reference
+  nav_prev: 53-guides-and-resources.md
+  nav_next: 55-glossary.md
+  nav_prev_label: Chapter 53 — Guides and Resources
+  nav_next_label: Chapter 55 — Glossary and Index
+- legacy: 069.md
+  create: false
+  new_file: 55-glossary.md
+  chapter: 55
+  part: Appendices
+  title: Glossary and Index
+  slug: glossary
+  nav_prev: 54-quick-reference.md
+  nav_next: 56-bridge-to-actualization.md
+  nav_prev_label: Chapter 54 — Quick Reference Guide
+  nav_next_label: Chapter 56 — Bridge to Actualization
+- legacy: null
+  create: true
+  new_file: 56-bridge-to-actualization.md
+  chapter: 56
+  part: Appendices
+  title: Bridge to Actualization
+  slug: bridge-to-actualization
+  nav_prev: 55-glossary.md
+  nav_next: 57-actualization.md
+  nav_prev_label: Chapter 55 — Glossary and Index
+  nav_next_label: Chapter 57 — Actualization
+- legacy: 071.md
+  create: false
+  new_file: 57-actualization.md
+  chapter: 57
+  part: Appendices
+  title: Actualization
+  slug: actualization
+  nav_prev: 56-bridge-to-actualization.md
+  nav_next: 58-final-conclusion.md
+  nav_prev_label: Chapter 56 — Bridge to Actualization
+  nav_next_label: Chapter 58 — Final Conclusion
+- legacy: 070.md
+  create: false
+  new_file: 58-final-conclusion.md
+  chapter: 58
+  part: Appendices
+  title: Final Conclusion
+  slug: final-conclusion
+  nav_prev: 57-actualization.md
+  nav_next: null
+  nav_prev_label: Chapter 57 — Actualization
+  nav_next_label: null

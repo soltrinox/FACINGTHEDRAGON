@@ -28,7 +28,8 @@ while IFS= read -r file || [[ -n "$file" ]]; do
   tmp="$(mktemp)"
   sed -E \
     -e '/^\[← Previous/d' \
-    -e '/\[Table of Contents\]\(000\.md\)/d' \
+    -e '/^\[Table of Contents\]/d' \
+    -e '/^\[← Previous: Chapter/d' \
     "$src" > "$tmp"
 
   python3 - "$tmp" "$id" "$file" <<'PY'
@@ -40,7 +41,7 @@ lines = text.splitlines(keepends=True)
 out = []
 has_h1 = any(re.match(r'^# ', l) for l in lines)
 for i, line in enumerate(lines):
-    if not has_h1 and filename == "000.md" and i == 0:
+    if not has_h1 and filename == "00-toc.md" and i == 0:
         out.append("# Table of Contents {#000}\n\n")
     if re.match(r'^# ', line) and not re.search(r'\{#', line):
         if not any(re.match(r'^# ', l) and re.search(r'\{#', l) for l in out):

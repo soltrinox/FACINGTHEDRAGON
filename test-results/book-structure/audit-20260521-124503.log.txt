@@ -1,0 +1,240 @@
+=== Book Structure Audit 20260521-124503 ===
+ROOT: /Users/rosario/work/PRODUCTION-BOOK
+
+Manifest entries: 60
+[FAIL] Missing manifest file on disk: 00-title.md
+[FAIL] Missing manifest file on disk: 00-toc.md
+[FAIL] Missing manifest file on disk: 01-warriors-facing-dragons.md
+[FAIL] Missing manifest file on disk: 02-crisis-resources.md
+[FAIL] Missing manifest file on disk: 03-chapter-sequencing-guide.md
+[FAIL] Missing manifest file on disk: 04-transitions.md
+[FAIL] Missing manifest file on disk: 05-reluctant-student.md
+[FAIL] Missing manifest file on disk: 06-grandfather-speaks-of-worth.md
+[FAIL] Missing manifest file on disk: 07-unheard-boy.md
+[FAIL] Missing manifest file on disk: 08-respect-gateway.md
+[FAIL] Missing manifest file on disk: 09-real-nature-of-dragon.md
+[FAIL] Missing manifest file on disk: 10-dragon-wounded-pride.md
+[FAIL] Missing manifest file on disk: 11-what-it-means-to-face.md
+[FAIL] Missing manifest file on disk: 12-fire-inside.md
+[FAIL] Missing manifest file on disk: 13-unseen-wound.md
+[FAIL] Missing manifest file on disk: 14-wounded-bear.md
+[FAIL] Missing manifest file on disk: 15-chained-giant.md
+[FAIL] Missing manifest file on disk: 16-shattered-helmet.md
+[FAIL] Missing manifest file on disk: 17-warrior-could-not-cry.md
+[FAIL] Missing manifest file on disk: 18-lion-feared-roar.md
+[FAIL] Missing manifest file on disk: 19-two-wolves-river.md
+[FAIL] Missing manifest file on disk: 20-three-rivers.md
+[FAIL] Missing manifest file on disk: 21-empty-quiver.md
+[FAIL] Missing manifest file on disk: 22-unfinished-mask.md
+[FAIL] Missing manifest file on disk: 23-seven-doors.md
+[FAIL] Missing manifest file on disk: 24-test-six-mirrors.md
+[FAIL] Missing manifest file on disk: 25-warrior-walked-backward.md
+[FAIL] Missing manifest file on disk: 26-warrior-chased-shadows.md
+[FAIL] Missing manifest file on disk: 27-anvil-and-sword.md
+[FAIL] Missing manifest file on disk: 28-blacksmiths-tongs.md
+[FAIL] Missing manifest file on disk: 29-silent-stone.md
+[FAIL] Missing manifest file on disk: 30-thornling-tree.md
+[FAIL] Missing manifest file on disk: 31-haunted-blade.md
+[FAIL] Missing manifest file on disk: 32-masterless-horse.md
+[FAIL] Missing manifest file on disk: 33-broken-drum.md
+[FAIL] Missing manifest file on disk: 34-lamp-no-oil.md
+[FAIL] Missing manifest file on disk: 35-echoing-cave.md
+[FAIL] Missing manifest file on disk: 36-open-hand.md
+[FAIL] Missing manifest file on disk: 37-waterfall.md
+[FAIL] Missing manifest file on disk: 38-spear-two-points.md
+[FAIL] Missing manifest file on disk: 39-hunter-never-missed.md
+[FAIL] Missing manifest file on disk: 40-final-bow-before-battle.md
+[FAIL] Missing manifest file on disk: 41-ask-for-help.md
+[FAIL] Missing manifest file on disk: 42-forgave-his-father.md
+[FAIL] Missing manifest file on disk: 43-broke-the-cycle.md
+[FAIL] Missing manifest file on disk: 44-purpose-beyond-survival.md
+[FAIL] Missing manifest file on disk: 45-grandfathers-confession.md
+[FAIL] Missing manifest file on disk: 46-fire-embers.md
+[FAIL] Missing manifest file on disk: 47-parable-summary.md
+[FAIL] Missing manifest file on disk: 48-discarded-heart.md
+[FAIL] Missing manifest file on disk: 49-self-destruction-to-compassion.md
+[FAIL] Missing manifest file on disk: 50-writing-your-life.md
+[FAIL] Missing manifest file on disk: 51-practical-tools.md
+[FAIL] Missing manifest file on disk: 52-progress-tracking.md
+[FAIL] Missing manifest file on disk: 53-guides-and-resources.md
+[FAIL] Missing manifest file on disk: 54-quick-reference.md
+[FAIL] Missing manifest file on disk: 55-glossary.md
+[FAIL] Missing manifest file on disk: 56
+[FAIL] Missing manifest file on disk: 57-actualization.md
+[FAIL] Missing manifest file on disk: 58-final-conclusion.md
+[FAIL] Legacy file still present: 0.md (expected 00-title.md)
+[FAIL] Legacy file still present: 000.md (expected 00-toc.md)
+[FAIL] Legacy file still present: 001.md (expected 01-warriors-facing-dragons.md)
+[FAIL] Legacy file still present: 002.md (expected 02-crisis-resources.md)
+[FAIL] Legacy file still present: 003.md (expected 03-chapter-sequencing-guide.md)
+[FAIL] Legacy file still present: 004.md (expected 05-reluctant-student.md)
+[FAIL] Legacy file still present: 005.md (expected 06-grandfather-speaks-of-worth.md)
+[FAIL] Legacy file still present: 006.md (expected 07-unheard-boy.md)
+[FAIL] Legacy file still present: 007.md (expected 08-respect-gateway.md)
+[FAIL] Legacy file still present: 009.md (expected 09-real-nature-of-dragon.md)
+[FAIL] Legacy file still present: 010.md (expected 10-dragon-wounded-pride.md)
+[FAIL] Legacy file still present: 011.md (expected 11-what-it-means-to-face.md)
+[FAIL] Legacy file still present: 012.md (expected 12-fire-inside.md)
+[FAIL] Legacy file still present: 015.md (expected 13-unseen-wound.md)
+[FAIL] Legacy file still present: 016.md (expected 14-wounded-bear.md)
+[FAIL] Legacy file still present: 017.md (expected 15-chained-giant.md)
+[FAIL] Legacy file still present: 018.md (expected 16-shattered-helmet.md)
+[FAIL] Legacy file still present: 019.md (expected 17-warrior-could-not-cry.md)
+[FAIL] Legacy file still present: 020.md (expected 18-lion-feared-roar.md)
+[FAIL] Legacy file still present: 021.md (expected 19-two-wolves-river.md)
+[FAIL] Legacy file still present: 022.md (expected 20-three-rivers.md)
+[FAIL] Legacy file still present: 023.md (expected 21-empty-quiver.md)
+[FAIL] Legacy file still present: 024.md (expected 22-unfinished-mask.md)
+[FAIL] Legacy file still present: 025.md (expected 23-seven-doors.md)
+[FAIL] Legacy file still present: 026.md (expected 24-test-six-mirrors.md)
+[FAIL] Legacy file still present: 027.md (expected 25-warrior-walked-backward.md)
+[FAIL] Legacy file still present: 028.md (expected 26-warrior-chased-shadows.md)
+[FAIL] Legacy file still present: 029.md (expected 27-anvil-and-sword.md)
+[FAIL] Legacy file still present: 030.md (expected 28-blacksmiths-tongs.md)
+[FAIL] Legacy file still present: 031.md (expected 29-silent-stone.md)
+[FAIL] Legacy file still present: 032.md (expected 30-thornling-tree.md)
+[FAIL] Legacy file still present: 033.md (expected 31-haunted-blade.md)
+[FAIL] Legacy file still present: 034.md (expected 32-masterless-horse.md)
+[FAIL] Legacy file still present: 035.md (expected 33-broken-drum.md)
+[FAIL] Legacy file still present: 036.md (expected 34-lamp-no-oil.md)
+[FAIL] Legacy file still present: 037.md (expected 35-echoing-cave.md)
+[FAIL] Legacy file still present: 039.md (expected 36-open-hand.md)
+[FAIL] Legacy file still present: 040.md (expected 37-waterfall.md)
+[FAIL] Legacy file still present: 041.md (expected 38-spear-two-points.md)
+[FAIL] Legacy file still present: 042.md (expected 39-hunter-never-missed.md)
+[FAIL] Legacy file still present: 043.md (expected 40-final-bow-before-battle.md)
+[FAIL] Legacy file still present: 046.md (expected 41-ask-for-help.md)
+[FAIL] Legacy file still present: 047.md (expected 42-forgave-his-father.md)
+[FAIL] Legacy file still present: 049.md (expected 43-broke-the-cycle.md)
+[FAIL] Legacy file still present: 050.md (expected 44-purpose-beyond-survival.md)
+[FAIL] Legacy file still present: 054.md (expected 45-grandfathers-confession.md)
+[FAIL] Legacy file still present: 055.md (expected 46-fire-embers.md)
+[FAIL] Legacy file still present: 060.md (expected 48-discarded-heart.md)
+[FAIL] Legacy file still present: 061.md (expected 47-parable-summary.md)
+[FAIL] Legacy file still present: 062.md (expected 04-transitions.md)
+[FAIL] Legacy file still present: 063.md (expected 49-self-destruction-to-compassion.md)
+[FAIL] Legacy file still present: 064.md (expected 51-practical-tools.md)
+[FAIL] Legacy file still present: 065.md (expected 52-progress-tracking.md)
+[FAIL] Legacy file still present: 066.md (expected 50-writing-your-life.md)
+[FAIL] Legacy file still present: 067.md (expected 53-guides-and-resources.md)
+[FAIL] Legacy file still present: 068.md (expected 54-quick-reference.md)
+[FAIL] Legacy file still present: 069.md (expected 55-glossary.md)
+[FAIL] Legacy file still present: 070.md (expected 58-final-conclusion.md)
+[FAIL] Legacy file still present: 071.md (expected 57-actualization.md)
+[FAIL] Stale pattern /Section 7\./ in: /Users/rosario/work/PRODUCTION-BOOK/069.md /Users/rosario/work/PRODUCTION-BOOK/build/combined.md 
+[FAIL] Stale pattern /Section 8\.[45]/ in: /Users/rosario/work/PRODUCTION-BOOK/063.md /Users/rosario/work/PRODUCTION-BOOK/build/combined.md 
+[FAIL] Stale pattern /Why a Young Man Stops/ in: /Users/rosario/work/PRODUCTION-BOOK/063.md /Users/rosario/work/PRODUCTION-BOOK/003.md /Users/rosario/work/PRODUCTION-BOOK/build/combined.md /Users/rosario/work/PRODUCTION-BOOK/069.md /Users/rosario/work/PRODUCTION-BOOK/061.md /Users/rosario/work/PRODUCTION-BOOK/060.md 
+[FAIL] Stale pattern /QUESTIONS\.001/ in: /Users/rosario/work/PRODUCTION-BOOK/PRODUCTION_READY_EXECUTION_REPORT.md 
+[FAIL] Stale pattern /BASE\.001/ in: /Users/rosario/work/PRODUCTION-BOOK/PRODUCTION_READY_EXECUTION_REPORT.md 
+[PASS] No links to deleted 008.md
+[PASS] No links to deleted 014.md
+[PASS] No links to deleted 038.md
+[PASS] No links to deleted 048.md
+[PASS] All md links resolve
+[PASS] Nav chain verified
+[FAIL] 05-reluctant-student.md parable should have exactly one H1 (found 0)
+[FAIL] 06-grandfather-speaks-of-worth.md parable should have exactly one H1 (found 0)
+[FAIL] 07-unheard-boy.md parable should have exactly one H1 (found 0)
+[FAIL] 08-respect-gateway.md parable should have exactly one H1 (found 0)
+[FAIL] 09-real-nature-of-dragon.md parable should have exactly one H1 (found 0)
+[FAIL] 10-dragon-wounded-pride.md parable should have exactly one H1 (found 0)
+[FAIL] 11-what-it-means-to-face.md parable should have exactly one H1 (found 0)
+[FAIL] 12-fire-inside.md parable should have exactly one H1 (found 0)
+[FAIL] 13-unseen-wound.md parable should have exactly one H1 (found 0)
+[FAIL] 14-wounded-bear.md parable should have exactly one H1 (found 0)
+[FAIL] 15-chained-giant.md parable should have exactly one H1 (found 0)
+[FAIL] 16-shattered-helmet.md parable should have exactly one H1 (found 0)
+[FAIL] 17-warrior-could-not-cry.md parable should have exactly one H1 (found 0)
+[FAIL] 18-lion-feared-roar.md parable should have exactly one H1 (found 0)
+[FAIL] 19-two-wolves-river.md parable should have exactly one H1 (found 0)
+[FAIL] 20-three-rivers.md parable should have exactly one H1 (found 0)
+[FAIL] 21-empty-quiver.md parable should have exactly one H1 (found 0)
+[FAIL] 22-unfinished-mask.md parable should have exactly one H1 (found 0)
+[FAIL] 23-seven-doors.md parable should have exactly one H1 (found 0)
+[FAIL] 24-test-six-mirrors.md parable should have exactly one H1 (found 0)
+[FAIL] 25-warrior-walked-backward.md parable should have exactly one H1 (found 0)
+[FAIL] 26-warrior-chased-shadows.md parable should have exactly one H1 (found 0)
+[FAIL] 27-anvil-and-sword.md parable should have exactly one H1 (found 0)
+[FAIL] 28-blacksmiths-tongs.md parable should have exactly one H1 (found 0)
+[FAIL] 29-silent-stone.md parable should have exactly one H1 (found 0)
+[FAIL] 30-thornling-tree.md parable should have exactly one H1 (found 0)
+[FAIL] 31-haunted-blade.md parable should have exactly one H1 (found 0)
+[FAIL] 32-masterless-horse.md parable should have exactly one H1 (found 0)
+[FAIL] 33-broken-drum.md parable should have exactly one H1 (found 0)
+[FAIL] 34-lamp-no-oil.md parable should have exactly one H1 (found 0)
+[FAIL] 35-echoing-cave.md parable should have exactly one H1 (found 0)
+[FAIL] 36-open-hand.md parable should have exactly one H1 (found 0)
+[FAIL] 37-waterfall.md parable should have exactly one H1 (found 0)
+[FAIL] 38-spear-two-points.md parable should have exactly one H1 (found 0)
+[FAIL] 39-hunter-never-missed.md parable should have exactly one H1 (found 0)
+[FAIL] 40-final-bow-before-battle.md parable should have exactly one H1 (found 0)
+[FAIL] 41-ask-for-help.md parable should have exactly one H1 (found 0)
+[FAIL] 42-forgave-his-father.md parable should have exactly one H1 (found 0)
+[FAIL] 43-broke-the-cycle.md parable should have exactly one H1 (found 0)
+[FAIL] 44-purpose-beyond-survival.md parable should have exactly one H1 (found 0)
+[FAIL] 45-grandfathers-confession.md parable should have exactly one H1 (found 0)
+[FAIL] 46-fire-embers.md parable should have exactly one H1 (found 0)
+[FAIL] build/order.txt lines (59) != manifest files (60)
+[FAIL] order.txt[0] expected 00-title.md got 0.md
+[FAIL] order.txt[1] expected 00-toc.md got 000.md
+[FAIL] order.txt[2] expected 01-warriors-facing-dragons.md got 001.md
+[FAIL] order.txt[3] expected 02-crisis-resources.md got 002.md
+[FAIL] order.txt[4] expected 03-chapter-sequencing-guide.md got 003.md
+[FAIL] order.txt[5] expected 04-transitions.md got 062.md
+[FAIL] order.txt[6] expected 05-reluctant-student.md got 004.md
+[FAIL] order.txt[7] expected 06-grandfather-speaks-of-worth.md got 005.md
+[FAIL] order.txt[8] expected 07-unheard-boy.md got 006.md
+[FAIL] order.txt[9] expected 08-respect-gateway.md got 007.md
+[FAIL] order.txt[10] expected 09-real-nature-of-dragon.md got 009.md
+[FAIL] order.txt[11] expected 10-dragon-wounded-pride.md got 010.md
+[FAIL] order.txt[12] expected 11-what-it-means-to-face.md got 011.md
+[FAIL] order.txt[13] expected 12-fire-inside.md got 012.md
+[FAIL] order.txt[14] expected 13-unseen-wound.md got 015.md
+[FAIL] order.txt[15] expected 14-wounded-bear.md got 016.md
+[FAIL] order.txt[16] expected 15-chained-giant.md got 017.md
+[FAIL] order.txt[17] expected 16-shattered-helmet.md got 018.md
+[FAIL] order.txt[18] expected 17-warrior-could-not-cry.md got 019.md
+[FAIL] order.txt[19] expected 18-lion-feared-roar.md got 020.md
+[FAIL] order.txt[20] expected 19-two-wolves-river.md got 021.md
+[FAIL] order.txt[21] expected 20-three-rivers.md got 022.md
+[FAIL] order.txt[22] expected 21-empty-quiver.md got 023.md
+[FAIL] order.txt[23] expected 22-unfinished-mask.md got 024.md
+[FAIL] order.txt[24] expected 23-seven-doors.md got 025.md
+[FAIL] order.txt[25] expected 24-test-six-mirrors.md got 026.md
+[FAIL] order.txt[26] expected 25-warrior-walked-backward.md got 027.md
+[FAIL] order.txt[27] expected 26-warrior-chased-shadows.md got 028.md
+[FAIL] order.txt[28] expected 27-anvil-and-sword.md got 029.md
+[FAIL] order.txt[29] expected 28-blacksmiths-tongs.md got 030.md
+[FAIL] order.txt[30] expected 29-silent-stone.md got 031.md
+[FAIL] order.txt[31] expected 30-thornling-tree.md got 032.md
+[FAIL] order.txt[32] expected 31-haunted-blade.md got 033.md
+[FAIL] order.txt[33] expected 32-masterless-horse.md got 034.md
+[FAIL] order.txt[34] expected 33-broken-drum.md got 035.md
+[FAIL] order.txt[35] expected 34-lamp-no-oil.md got 036.md
+[FAIL] order.txt[36] expected 35-echoing-cave.md got 037.md
+[FAIL] order.txt[37] expected 36-open-hand.md got 039.md
+[FAIL] order.txt[38] expected 37-waterfall.md got 040.md
+[FAIL] order.txt[39] expected 38-spear-two-points.md got 041.md
+[FAIL] order.txt[40] expected 39-hunter-never-missed.md got 042.md
+[FAIL] order.txt[41] expected 40-final-bow-before-battle.md got 043.md
+[FAIL] order.txt[42] expected 41-ask-for-help.md got 046.md
+[FAIL] order.txt[43] expected 42-forgave-his-father.md got 047.md
+[FAIL] order.txt[44] expected 43-broke-the-cycle.md got 049.md
+[FAIL] order.txt[45] expected 44-purpose-beyond-survival.md got 050.md
+[FAIL] order.txt[46] expected 45-grandfathers-confession.md got 054.md
+[FAIL] order.txt[47] expected 46-fire-embers.md got 055.md
+[FAIL] order.txt[48] expected 47-parable-summary.md got 060.md
+[FAIL] order.txt[49] expected 48-discarded-heart.md got 061.md
+[FAIL] order.txt[50] expected 49-self-destruction-to-compassion.md got 063.md
+[FAIL] order.txt[51] expected 50-writing-your-life.md got 066.md
+[FAIL] order.txt[52] expected 51-practical-tools.md got 065.md
+[FAIL] order.txt[53] expected 52-progress-tracking.md got 068.md
+[FAIL] order.txt[54] expected 53-guides-and-resources.md got 069.md
+[FAIL] order.txt[55] expected 54-quick-reference.md got 070.md
+[FAIL] order.txt[56] expected 55-glossary.md got 064.md
+[FAIL] order.txt[57] expected 56 got 067.md
+[FAIL] order.txt[58] expected 57-actualization.md got 071.md
+[PASS] build/order.txt order matches manifest
+[PASS] chapters 1-58 present
+
+[FAIL] Audit complete — failures detected

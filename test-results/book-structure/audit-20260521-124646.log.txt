@@ -1,0 +1,3 @@
+=== Book Structure Audit 20260521-124646 ===
+ROOT: /Users/rosario/work/PRODUCTION-BOOK
+
