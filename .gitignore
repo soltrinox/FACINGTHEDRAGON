@@ -1,0 +1,4 @@
+dist/
+build/combined.md
+build/cover.png
+.DS_Store

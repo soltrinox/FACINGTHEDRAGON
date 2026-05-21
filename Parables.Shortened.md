@@ -1,4 +1,4 @@
-> **WORKING DRAFT — DO NOT PUBLISH.**
+> **WORKING DRAFT, DO NOT PUBLISH.**
 >
 > This file is an abridged compilation of parables, retained as a working draft for internal reference only. It is **not** the canonical manuscript and **is not** kept in sync with edits made to the per-parable files (`004.md` through `055.md`). It is also missing the integration parables (046–050) and the capstone material introduced in production-ready revisions.
 >

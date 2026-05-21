@@ -1,0 +1,159 @@
+% Pandoc XeLaTeX template — Facing the Dragon (6x9 trade paperback)
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\documentclass[11pt,openright,twoside]{book}
+
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{lmodern}
+\else
+  \usepackage{fontspec}
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \IfFontExistsTF{EBGaramond-Regular.otf}{%
+    \setmainfont{EBGaramond-Regular.otf}[
+      BoldFont = EBGaramond-Bold.otf,
+      ItalicFont = EBGaramond-Italic.otf,
+      BoldItalicFont = EBGaramond-BoldItalic.otf
+    ]%
+  }{%
+    \setmainfont{texgyretermes-regular.otf}[
+      BoldFont = texgyretermes-bold.otf,
+      ItalicFont = texgyretermes-italic.otf,
+      BoldItalicFont = texgyretermes-bolditalic.otf
+    ]%
+  }%
+  \IfFontExistsTF{texgyreheros-regular.otf}{%
+    \setsansfont{texgyreheros-regular.otf}[
+      BoldFont = texgyreheros-bold.otf,
+      ItalicFont = texgyreheros-italic.otf,
+      BoldItalicFont = texgyreheros-bolditalic.otf,
+      Scale=0.95
+    ]%
+  }{%
+    \setsansfont{Helvetica}[Scale=0.95]%
+  }%
+  \IfFontExistsTF{texgyrecursor-regular.otf}{%
+    \setmonofont{texgyrecursor-regular.otf}[
+      BoldFont = texgyrecursor-bold.otf,
+      ItalicFont = texgyrecursor-italic.otf,
+      BoldItalicFont = texgyrecursor-bolditalic.otf,
+      Scale=0.85
+    ]%
+  }{%
+    \setmonofont{Menlo}[Scale=0.85]%
+  }%
+\fi
+
+\usepackage[
+  paperwidth=6in,
+  paperheight=9in,
+  inner=0.875in,
+  outer=0.625in,
+  top=0.75in,
+  bottom=0.875in,
+  headheight=14pt,
+  footskip=0.35in
+]{geometry}
+
+\usepackage{amsmath,amssymb}
+\usepackage{microtype}
+\usepackage{setspace}
+\setstretch{1.15}
+\usepackage{graphicx}
+\setkeys{Gin}{width=0.9\linewidth,keepaspectratio}
+\usepackage{lettrine}
+\setcounter{DefaultLines}{3}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+\usepackage{longtable,booktabs,array,calc}
+\usepackage{etoolbox}
+\setlength{\emergencystretch}{3em}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{}
+\urlstyle{same}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=black,
+  citecolor=black,
+  pdftitle={$if(title-meta)$$title-meta$$else$Facing the Dragon$endif$},
+  pdfauthor={$if(author-meta)$$author-meta$$else$Frank Dylan del Rosario$endif$},
+  pdfsubject={$if(subtitle-meta)$$subtitle-meta$$else$A Warrior's Path to Healing$endif$},
+  pdfkeywords={trauma, healing, warrior, dragon, recovery}
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\itshape\leftmark}
+\fancyhead[RO]{\small\itshape Facing the Dragon}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries}
+  {}
+  {0pt}
+  {\Huge}
+
+$if(title)$
+\title{$title$$if(subtitle)$\\[0.5em]\large $subtitle$$endif$}
+$else$
+\title{Facing the Dragon\\[0.5em]\large A Warrior's Path to Healing}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \\ $endfor$}
+$else$
+\author{Frank Dylan del Rosario}
+$endif$
+\date{$if(date)$$date$$else$2025$endif$}
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+
+\makeatletter
+\newsavebox{\pandoc@box}
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi
+}
+\makeatother
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+\begin{document}
+
+$if(title)$
+\frontmatter
+\maketitle
+$endif$
+
+$if(toc)$
+\tableofcontents
+$endif$
+
+\mainmatter
+
+$body$
+
+\end{document}

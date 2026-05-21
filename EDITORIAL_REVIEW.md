@@ -1,7 +1,7 @@
-# EDITORIAL REVIEW — *Facing the Dragon: A Warrior's Path to Healing*
+# EDITORIAL REVIEW, *Facing the Dragon: A Warrior's Path to Healing*
 
 **Author:** Frank Dylan del Rosario
-**Reviewer pass:** Production-readiness audit against stated pedagogical goals — teaching young men ethics, humility, community service, family responsibility, mental-health self-monitoring, and recognition of self-justifying narratives.
+**Reviewer pass:** Production-readiness audit against stated pedagogical goals, teaching young men ethics, humility, community service, family responsibility, mental-health self-monitoring, and recognition of self-justifying narratives.
 **Scope:** All ~60 chapter files + `Parables.Shortened.md` + `README.md`.
 
 ---
@@ -12,9 +12,9 @@
 2. **The book is roughly 2.3–3.5× too long.** Full manuscript ≈ **222,000 words / ~800 print pages**. Standard self-help target = 250–350 pages (62k–96k words). The bloat is in duplication and over-explanation, not in core insight.
 3. **The final chapter (`071.md` "Actualization") actively contradicts the book's healing thesis.** It reads as detached "sigma/stoic-influencer" content (e.g. *"Silence is the ultimate power move"*, *"When you show that nothing bothers you, you control the game"*) and must be **removed or rewritten from scratch** before publication.
 4. **The preface (`0.md`/`README.md`) contains the largest legal/market risk.** The section "**Why Women Cannot and Should Not Have a Say in These Lessons**" will block adoption by libraries, schools, recovery programs, mainstream reviewers, and many male readers themselves. The same male-focused mission can be defended with humility instead of exclusion (see §3).
-5. **The stated pedagogical goals are under-served in the current draft.** Specifically: humility-as-skill, ego/narcissism self-audit, recognition of self-justifying narratives, structured service-to-others, family repair, and ongoing mental-health self-monitoring — all exist as implicit themes but **lack dedicated tools**.
+5. **The stated pedagogical goals are under-served in the current draft.** Specifically: humility-as-skill, ego/narcissism self-audit, recognition of self-justifying narratives, structured service-to-others, family repair, and ongoing mental-health self-monitoring, all exist as implicit themes but **lack dedicated tools**.
 6. **Several missing chapter numbers (013, 044, 045, 051–053) appear intentional**, not lost drafts. The 043→046 gap deserves a written bridge ("Ask for Help") because it's where the moral pivot should land.
-7. **Internal references are broken throughout.** `BASE.001` and `QUESTIONS.001` are used 114+ times in the glossary and worksheets, but no such files exist — they should resolve to `060.md` and `063.md`.
+7. **Internal references are broken throughout.** `BASE.001` and `QUESTIONS.001` are used 114+ times in the glossary and worksheets, but no such files exist, they should resolve to `060.md` and `063.md`.
 
 ---
 
@@ -24,13 +24,13 @@
 
 The preface section *"Why Women Cannot and Should Not Have a Say in These Lessons"* (`0.md` lines 76–90) is the single most damaging passage in the manuscript for the book's stated goals. It directly contradicts the user's instruction that the narrative teach **humility**, **reduced ego/narcissism**, and **community/family service**. A young man reading this is being modeled the very grievance posture the parables later ask him to abandon.
 
-**Reframe — keep the mission, drop the wall:**
+**Reframe, keep the mission, drop the wall:**
 
 | Current claim | Replace with |
 |---|---|
-| "Women cannot and should not have a say" | "This book is written by a man, for men, drawing on lineages of male mentorship. Mothers, sisters, and partners are welcome readers — but the voice here speaks man-to-man, the way a grandfather speaks to a grandson." |
+| "Women cannot and should not have a say" | "This book is written by a man, for men, drawing on lineages of male mentorship. Mothers, sisters, and partners are welcome readers, but the voice here speaks man-to-man, the way a grandfather speaks to a grandson." |
 | Heavy hormonal/biology argument | Briefly acknowledge biological and social differences; do **not** use them to disqualify perspectives. |
-| "Support vs. guidance" exclusion | "Healing belongs to the one walking the path. Anyone who loves a man — woman or man — can support that walk; this book offers the path itself." |
+| "Support vs. guidance" exclusion | "Healing belongs to the one walking the path. Anyone who loves a man, woman or man, can support that walk; this book offers the path itself." |
 
 This change costs nothing pedagogically and unlocks libraries, school counselors, treatment centers, women buying for sons/partners, and serious critical review.
 
@@ -44,7 +44,7 @@ This chapter currently teaches **emotional withholding, social manipulation, and
 
 | Where | What | Est. words saved |
 |---|---|---|
-| `060.md` §6 — duplicates entire `063.md` worksheet content | Delete §6 from `060.md`; let `063.md` be the sole worksheets file | ~15,000 |
+| `060.md` §6, duplicates entire `063.md` worksheet content | Delete §6 from `060.md`; let `063.md` be the sole worksheets file | ~15,000 |
 | `060.md` §7 (glossary) duplicates `069.md` | Delete §7 from `060.md` | ~3,500 |
 | `001.md` repeats "What's Expected / How You'll Know It's Working" 8× | Collapse to a single block | ~1,500 |
 | `063.md` repeated "What You Will Learn From Answering These Questions" boilerplate before every section | Remove boilerplate; keep questions | ~2,500 |
@@ -89,30 +89,30 @@ These are exactly the tools the user named in the request. Their absence is the 
 | Section | Files | Target pages |
 |---|---|---|
 | Front matter / Preface (revised) | `0.md`, `000.md` | 12 |
-| Part One — Foundation | `001.md` (trimmed 40%), `002.md` (expanded with disclaimers + crisis numbers), `003.md` (with missing parables mapped) | 25 |
-| Part Two — Parables | `004.md`–`055.md` (with mergers; see §4) | 130 |
-| Part Three — Patterns | `060.md` §1–5 + §8 only; `061.md` as parable index | 65 |
-| Part Four — Worksheets | `063.md` (de-boilerplated) | 40 |
-| Part Five — Workbook | `066.md` (trimmed) | 25 |
+| Part One, Foundation | `001.md` (trimmed 40%), `002.md` (expanded with disclaimers + crisis numbers), `003.md` (with missing parables mapped) | 25 |
+| Part Two, Parables | `004.md`–`055.md` (with mergers; see §4) | 130 |
+| Part Three, Patterns | `060.md` §1–5 + §8 only; `061.md` as parable index | 65 |
+| Part Four, Worksheets | `063.md` (de-boilerplated) | 40 |
+| Part Five, Workbook | `066.md` (trimmed) | 25 |
 | Appendices | `064.md`, `065.md`, `068.md`, `069.md` (de-duplicated), new tools from §1.5 | 30 |
 | Closing | `070.md` (expanded with service/family pivot), new `071.md` (rewritten) | 12 |
 | **Total** | | **~339 pages** |
 
 ### 2.2 Numbering discipline
 
-Either (a) renumber `046–055` as `044–050` to close the visible gap, or (b) write the missing bridges. Option (b) is recommended for the **043→046** gap because that is exactly where the "ask for help" pivot belongs — and the absence of bridge chapters here is a real pedagogical hole, not just a numbering quirk.
+Either (a) renumber `046–055` as `044–050` to close the visible gap, or (b) write the missing bridges. Option (b) is recommended for the **043→046** gap because that is exactly where the "ask for help" pivot belongs, and the absence of bridge chapters here is a real pedagogical hole, not just a numbering quirk.
 
-### 2.3 `Parables.Shortened.md` — handle deliberately
+### 2.3 `Parables.Shortened.md`, handle deliberately
 
 It is **not** a duplicate of the chapter files; it is an **abridged single-night companion edition** missing the five integration chapters (046–050) and stripped of integration exercises. Recommended disposition:
 
 - **Do not** publish it instead of the long-form chapters; long-form is stronger prose and carries the moral pivot.
-- **Do** retain it as an **optional spinoff** ("A Warrior Grandfather's Dragon — Stories Only") once rebuilt to include 046–050.
+- **Do** retain it as an **optional spinoff** ("A Warrior Grandfather's Dragon, Stories Only") once rebuilt to include 046–050.
 - **Or** archive it as the working draft it appears to be.
 
 ---
 
-## 3. PEDAGOGICAL ALIGNMENT — where the book teaches what you asked it to, and where it doesn't
+## 3. PEDAGOGICAL ALIGNMENT, where the book teaches what you asked it to, and where it doesn't
 
 ### 3.1 Strong alignment (keep, emphasize, link forward to)
 
@@ -122,14 +122,14 @@ It is **not** a duplicate of the chapter files; it is an **abridged single-night
 | Mental-health self-monitoring | `065.md` progress tracking, `060.md` §5 anger-as-fear, parables **The Three Rivers** (`022.md`), **Test of the Six Mirrors** (`026.md`) |
 | Recognizing wounded pride as ego defense | **The Dragon of Wounded Pride** (`010.md`), **The Unseen Wound** (`015.md`), **The Wounded Bear** (`016.md`) |
 | Vulnerability over armor | **The Shattered Helmet** (`018.md`), **The Warrior Who Could Not Cry** (`019.md`), **The Unfinished Mask** (`024.md`), **The Open Hand** (`039.md`) |
-| Forgiveness / breaking generational cycles | **The Man Who Forgave His Father** (`047.md`), **The Man Who Broke the Cycle with His Children** (`049.md`) — these are among the **strongest** chapters in the book |
+| Forgiveness / breaking generational cycles | **The Man Who Forgave His Father** (`047.md`), **The Man Who Broke the Cycle with His Children** (`049.md`), these are among the **strongest** chapters in the book |
 
 ### 3.2 Under-served goals (need active rewrites, not just additions)
 
 | Goal | Current state | What's needed |
 |---|---|---|
 | **Reducing ego / narcissism** | Treated implicitly via pride parables; never named as a skill | Add "Ego Audit" tool (§1.5); add author commentary to `010.md` & `043.md` naming narcissistic patterns explicitly |
-| **Service to community** | One line in `064.md` and `070.md`; no exercise | Add Service Ladder (§1.5); rewrite `050.md` (currently the **weakest** late parable — it sermonizes purpose without showing one act of service) |
+| **Service to community** | One line in `064.md` and `070.md`; no exercise | Add Service Ladder (§1.5); rewrite `050.md` (currently the **weakest** late parable, it sermonizes purpose without showing one act of service) |
 | **Family responsibility** | Strong in `047.md`/`049.md`, absent elsewhere | Add a family-repair sequence in worksheets; link `070.md` explicitly to amends + Sunday-dinner-grade practical reconnection |
 | **Humility as ongoing practice** | "Final Bow" parable (`043.md`) names it once; no follow-through | Add Humility Check-In (§1.5); revise warrior framing in `001.md` to repeatedly tie strength to humility |
 | **Recognizing self-justification in the moment** | Worksheet §6 covers it analytically | Add the Self-Justification Log (§1.5) as a daily practice tied to `068.md` quick reference |
@@ -138,12 +138,12 @@ It is **not** a duplicate of the chapter files; it is an **abridged single-night
 
 These are passages that **teach the opposite** of what you said you want the book to teach:
 
-1. **`071.md` Actualization** — teaches enigma, silence-as-weapon, dominance through detachment. **Must go.**
-2. **`0.md`/`README.md` lines 76–90** — gender-exclusionary framing models the grievance posture the parables ask men to leave behind.
-3. **`004.md` lines 218–283** — long anti-mother/anti-tribe/anti-elders block validates external blame as a path to freedom. Rewrite to acknowledge **both** their fear **and** the narrator's contribution to estrangement.
-4. **`001.md` lines 347–349** — "the man you were meant to be before trauma shaped you" is essentialist/prelapsarian; replace with "the man you are choosing to become."
-5. **`001.md` lines 14–15 & 333** — "You are not broken. You are not inherently bad." Add the second half the parables actually teach: "**And you are responsible for what you do next, including the harm you have caused.**"
-6. **`038.md` cave shouting "I AM WORTHY OF RESPECT!"** — toxic-positivity affirmations risk replacing real character work. Either drop or tie explicitly to behavior.
+1. **`071.md` Actualization**, teaches enigma, silence-as-weapon, dominance through detachment. **Must go.**
+2. **`0.md`/`README.md` lines 76–90**, gender-exclusionary framing models the grievance posture the parables ask men to leave behind.
+3. **`004.md` lines 218–283**, long anti-mother/anti-tribe/anti-elders block validates external blame as a path to freedom. Rewrite to acknowledge **both** their fear **and** the narrator's contribution to estrangement.
+4. **`001.md` lines 347–349**, "the man you were meant to be before trauma shaped you" is essentialist/prelapsarian; replace with "the man you are choosing to become."
+5. **`001.md` lines 14–15 & 333**, "You are not broken. You are not inherently bad." Add the second half the parables actually teach: "**And you are responsible for what you do next, including the harm you have caused.**"
+6. **`038.md` cave shouting "I AM WORTHY OF RESPECT!"**, toxic-positivity affirmations risk replacing real character work. Either drop or tie explicitly to behavior.
 
 ---
 
@@ -157,31 +157,31 @@ These are passages that **teach the opposite** of what you said you want the boo
 | `002.md` Crisis Resources | **Strong skeleton, missing essentials** | **Must add:** 988 + Crisis Text Line + Veterans Crisis Line + Trevor Project; medical/legal disclaimer at top; chest-pain → emergency escalation; mandatory-reporting note for institutional readers; "if grounding makes it worse, stop and seek support" caveat |
 | `003.md` Sequencing Guide | **Incomplete** | Map the five missing parables (046–050) into a new Phase 8 / "Repair & Service" thematic path; replace `BASE.001`/`QUESTIONS.001` codenames with reader-facing names; clarify Fire Embers vs Grandfather's Confession placement |
 
-### 4.2 Parables — strong, rewrite, merge, cut
+### 4.2 Parables, strong, rewrite, merge, cut
 
-**Tier A — strongest, keep as-is (light copyedit only):**
+**Tier A, strongest, keep as-is (light copyedit only):**
 `005`, `006`, `009`, `010`, `011`, `012`, `015`, `016`, `017`, `018`, `019`, `022`, `023`, `024`, `025`, `027`, `028`, `029`, `032`, `040`, `042`, `043`, `047`, `049`, `054`.
 
-**Tier B — rewrite required:**
+**Tier B, rewrite required:**
 
 | File | Issue | Action |
 |---|---|---|
 | `004.md` The Reluctant Student | 288 lines, no `THE LESSON`, validates grievance over accountability, embeds material that 005/007 already cover, includes the "wisdom cannot be taught by women" line that contradicts the book's pivot to community | Cut to ~100 lines; remove the anti-tribe polemic; add a single grandfather invitation + a lesson block that names *both* their fear *and* his contribution |
-| `007.md` Respect: The Gateway | Narrative gap — tavern scene jumps to fishing net with no transition (lines 41–46); heavy overlap with 008 | Either fix the gap and shorten, **or** merge with `008.md` into a single "Respect" chapter |
+| `007.md` Respect: The Gateway | Narrative gap, tavern scene jumps to fishing net with no transition (lines 41–46); heavy overlap with 008 | Either fix the gap and shorten, **or** merge with `008.md` into a single "Respect" chapter |
 | `008.md` How Respect Became Violence | Strong leadership ethics, but Kael role here is incompatible with Kael elsewhere | Merge with 007 OR keep and rename the noble subordinate |
 | `014.md` Why a Young Man Stops Caring | Near-duplicate of `006.md` (silenced → shutdown → mirror friend → reconnect) | **Merge into `006.md`** |
-| `019.md` The Warrior Who Could Not Cry | Strong, but the lesson block calls the protagonist "Atano" while the story uses "Kaito" — copy/paste error | Fix the name |
-| `020.md` The Lion Who Feared His Roar | The pivotal "what he did to his sister" beat is skipped; reader is told he was dangerous but never sees it | Add the scene — accountability requires showing |
-| `021.md` Two Wolves by the River | Same problem — fight aftermath jumps to next-day wisdom | Show the non-violent choice |
-| `023.md` The Empty Quiver | Minor gap — "I asked him" with no named teacher; should be Marcus explicitly | One-line fix |
+| `019.md` The Warrior Who Could Not Cry | Strong, but the lesson block calls the protagonist "Atano" while the story uses "Kaito", copy/paste error | Fix the name |
+| `020.md` The Lion Who Feared His Roar | The pivotal "what he did to his sister" beat is skipped; reader is told he was dangerous but never sees it | Add the scene, accountability requires showing |
+| `021.md` Two Wolves by the River | Same problem, fight aftermath jumps to next-day wisdom | Show the non-violent choice |
+| `023.md` The Empty Quiver | Minor gap, "I asked him" with no named teacher; should be Marcus explicitly | One-line fix |
 | `030.md` The Blacksmith's Tongs | Mid-story jump into the forge without transition (lines 27–31) | Add a bridge sentence |
 | `046.md` The Warrior Who Learned to Ask for Help | Generic, tells more than shows; **prose error: "He carried me to her tent"** but Elara is female | Rewrite as a concrete peer-help scene before collapse, not after; fix pronoun |
 | `048.md` Receiving Love | Thinner than `039.md` (Open Hand) and reuses the name Elara from 046 | Merge with `039.md` into one "open hand" chapter |
-| `050.md` Purpose Beyond Survival | **Weakest pivot chapter** — abstract sermon, no dramatized scene, no specific mentee, no act of service | Rewrite with one concrete mentee + one act |
+| `050.md` Purpose Beyond Survival | **Weakest pivot chapter**, abstract sermon, no dramatized scene, no specific mentee, no act of service | Rewrite with one concrete mentee + one act |
 | `054.md` Grandfather's Confession | Strong, but Lina appears without setup (lines 39–44) | One-paragraph introduction of Lina earlier |
-| `055.md` The Fire Embers | **Most structurally broken file in the book.** A 695-line capstone novella that re-teaches 6+ parables already covered. | Split or trim aggressively — keep the roof-and-uncle scene, the stone-circle "listen to the dragon" beat, and the boy's two-act dragon ordeal (strongest dramatized climax in the book). Cut the prayer monologue that re-teaches 027–043 in sermon form. |
+| `055.md` The Fire Embers | **Most structurally broken file in the book.** A 695-line capstone novella that re-teaches 6+ parables already covered. | Split or trim aggressively, keep the roof-and-uncle scene, the stone-circle "listen to the dragon" beat, and the boy's two-act dragon ordeal (strongest dramatized climax in the book). Cut the prayer monologue that re-teaches 027–043 in sermon form. |
 
-**Tier C — cut or merge:**
+**Tier C, cut or merge:**
 
 - **Merge** `037.md` + `038.md` (both teach self-fulfilling prophecy / beliefs shape perception).
 - **Merge** `039.md` + `048.md` (both teach receiving / open hand).
@@ -195,13 +195,13 @@ These are passages that **teach the opposite** of what you said you want the boo
 
 | File | Verdict |
 |---|---|
-| `060.md` Patterns | §1–3 are 70% redundant with the parables and `061.md`; **§4 ("Hard Truths") is the best prose in the back of the book** — protect it. §5 useful. §6 must be deleted (duplicates 063). §7 must be deleted (duplicates 069). §8 brief and useful. |
-| `061.md` Warrior Grandfather's Dragon | **Strong** — clean parable digest; promote to be the canonical index over `068.md` and `069.md`. |
+| `060.md` Patterns | §1–3 are 70% redundant with the parables and `061.md`; **§4 ("Hard Truths") is the best prose in the back of the book**, protect it. §5 useful. §6 must be deleted (duplicates 063). §7 must be deleted (duplicates 069). §8 brief and useful. |
+| `061.md` Warrior Grandfather's Dragon | **Strong**, clean parable digest; promote to be the canonical index over `068.md` and `069.md`. |
 | `062.md` Transitions | Useful once nav is fixed. |
 | `063.md` Worksheets | Core questions are good; **delete the per-section "What You Will Learn" boilerplate**; remove the second duplicate "INTEGRATION" header (lines 1047 + 1229); replace the abstract "Principle of Inherent Worth" essay conclusion with practical close. |
 | `064.md` Practical Tools | Strong; **add** the new tools from §1.5. |
 | `065.md` Progress Tracking | Strong; tie explicitly into `070.md` as ongoing practice. |
-| `066.md` Writing Your Life | Strong scaffolding; cognitive-bias and rewrite-your-story exercises duplicate `063.md` — choose one home for each. |
+| `066.md` Writing Your Life | Strong scaffolding; cognitive-bias and rewrite-your-story exercises duplicate `063.md`, choose one home for each. |
 | `067.md` Guides | Facilitator-facing; fine as-is. |
 | `068.md` Quick Reference | Useful but partially duplicates `069.md`; merge or pick one. |
 | `069.md` Glossary | Conceptually useful; **not publication-ready** due to broken `BASE.001`/`QUESTIONS.001` refs (114+ uses), duplicate entries ("Self-Worth" vs "Worth"), and section-number mismatches. Add entries for *narcissism*, *self-justification*, *cognitive distortion*, *accountability partner*, *service*. |
@@ -217,7 +217,7 @@ These are passages that **teach the opposite** of what you said you want the boo
 - **Image alt text:** none of the cover/interior images have alt text or captions. Required for accessibility and required by most publishing platforms.
 - **Navigation footers:** several files (`062.md`, several parables) have inconsistent prev/next links. A scripted pass can fix these once the final numbering is settled.
 - **`THE LESSON:` blocks:** consistent across parables and pedagogically useful but break narrative spell. Recommendation: keep, but compress to 2–3 lines of grandfather dialogue rather than clinical text. Move the longer clinical analysis into `061.md`.
-- **Integration exercise blocks** appear inconsistently (only in `006`, `007`, `012`, and 046–050). Either include in all parables or none — recommend **none in parable files**, and consolidate all exercises into `063.md` to preserve the parables as literature.
+- **Integration exercise blocks** appear inconsistently (only in `006`, `007`, `012`, and 046–050). Either include in all parables or none, recommend **none in parable files**, and consolidate all exercises into `063.md` to preserve the parables as literature.
 
 ---
 
@@ -227,11 +227,11 @@ These are not optional for a mental-health book sold in the US:
 
 1. **Medical/clinical disclaimer** at top of `002.md` and on the copyright page: not therapy, not diagnosis, no clinician-client relationship.
 2. **Crisis hotline numbers** in `002.md`: 988 Suicide & Crisis Lifeline, Crisis Text Line (text HOME to 741741), Veterans Crisis Line (988 press 1), Trevor Project (1-866-488-7386), SAMHSA (1-800-662-4357).
-3. **Chest pain / cardiac symptoms** in `002.md` line 21: separate from "emotional stress" — direct readers to seek emergency medical care.
+3. **Chest pain / cardiac symptoms** in `002.md` line 21: separate from "emotional stress", direct readers to seek emergency medical care.
 4. **Trauma re-traumatization warning:** "If grounding or worksheets increase distress, stop and seek professional support."
 5. **Mandatory reporting note** for institutional/correctional readers around safety planning.
-6. **Citations** for neuroscience claims ("rewiring your brain", `001.md` lines 222–223) — either cite or soften to "building new habits of thinking."
-7. **ISBN and Library of Congress placeholders** in `0.md` lines 22–28 — currently shown as if assigned (`978-1-9584127-0-3`). Verify these are real or mark as TBD before any beta copies leave.
+6. **Citations** for neuroscience claims ("rewiring your brain", `001.md` lines 222–223), either cite or soften to "building new habits of thinking."
+7. **ISBN and Library of Congress placeholders** in `0.md` lines 22–28, currently shown as if assigned (`978-1-9584127-0-3`). Verify these are real or mark as TBD before any beta copies leave.
 
 ---
 
@@ -243,8 +243,8 @@ If you do them in this order, the book moves from current state to publishable i
 2. **Delete `071.md`; draft replacement chapter** (1 day).
 3. **Mass-fix broken refs** `BASE.001`/`QUESTIONS.001`/file-not-found links (2 hours, scripted).
 4. **Add medical disclaimer + crisis numbers** to `002.md` (2 hours).
-5. **Delete `060.md` §6–§7** (1 hour — biggest single deduplication win).
-6. **Rewrite `004.md`** (1 day — fixes the worst grievance-modeling chapter).
+5. **Delete `060.md` §6–§7** (1 hour, biggest single deduplication win).
+6. **Rewrite `004.md`** (1 day, fixes the worst grievance-modeling chapter).
 7. **Fix narrative gaps** in `020`, `021`, `023`, `030`, `054`; fix `019` "Atano" error; fix `046` pronoun (half-day).
 8. **Merge `006`+`014`, `007`+`008`, `037`+`038`, `039`+`048`** (1 day).
 9. **Trim and restructure `055.md`** (1 day).
@@ -262,15 +262,15 @@ If you do them in this order, the book moves from current state to publishable i
 
 So the revision doesn't lose what already works:
 
-- The **dragon-as-guarded-pain** metaphor — well-developed, consistent, original.
-- The **grandfather/grandson frame** — emotionally credible and male-appropriate.
-- **§4 of `060.md`** — "Hard Truths" and the acknowledgment process. This is the heart of the book.
-- The **Tier A parables** listed in §4.2 — these are working as intended.
-- **`047.md`** (forgiving father) and **`049.md`** (breaking the cycle with children) — among the best father-son writing in the men's-work genre.
-- **`054.md`** (Grandfather's Confession) and the **dragon ordeal climax inside `055.md`** — the strongest sustained writing in the manuscript.
+- The **dragon-as-guarded-pain** metaphor, well-developed, consistent, original.
+- The **grandfather/grandson frame**, emotionally credible and male-appropriate.
+- **§4 of `060.md`**, "Hard Truths" and the acknowledgment process. This is the heart of the book.
+- The **Tier A parables** listed in §4.2, these are working as intended.
+- **`047.md`** (forgiving father) and **`049.md`** (breaking the cycle with children), among the best father-son writing in the men's-work genre.
+- **`054.md`** (Grandfather's Confession) and the **dragon ordeal climax inside `055.md`**, the strongest sustained writing in the manuscript.
 - The **four-part architecture** itself.
 - The **safety-first instinct** in `002.md` (just needs the missing concrete resources).
-- The **practical tools** in `064.md` and `065.md` — extend, don't replace.
+- The **practical tools** in `064.md` and `065.md`, extend, don't replace.
 
 ---
 

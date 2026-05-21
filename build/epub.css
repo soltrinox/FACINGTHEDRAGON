@@ -1,0 +1,59 @@
+/* EPUB 3 stylesheet — Facing the Dragon */
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1em;
+  line-height: 1.5;
+  margin: 0 5%;
+  text-align: left;
+}
+
+h1 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  page-break-before: always;
+  break-before: page;
+}
+
+h2 {
+  font-size: 1.25em;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3, h4 {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.25em;
+  margin-bottom: 0.4em;
+}
+
+p {
+  margin: 0 0 0.75em 0;
+}
+
+blockquote {
+  margin: 1em 1.5em;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #999;
+  margin: 2em 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+}
